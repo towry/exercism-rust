@@ -1,0 +1,17 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "demo-run",
+  "steps": [
+    {
+      "file": "matching-brackets/src/lib.rs",
+      "description": "This is a demo of the tour, please do not delete this.",
+      "line": 2
+    },
+    {
+      "file": "matching-brackets/src/lib.rs",
+      "description": "You can add comment here.",
+      "line": 5
+    }
+  ],
+  "ref": "master"
+}
